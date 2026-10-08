@@ -1,5 +1,5 @@
 ---
-name: design_and_route_kicad_pcb
+name: pcb-design-and-audit
 description: Khảo sát dự án, đề xuất linh kiện, thẩm định nguyên lý phần cứng, và tự động đi dây mạch in KiCad 4 lớp đạt chuẩn Zero-DRC tuyệt đối (IPC-2221 Class 2). Tích hợp toàn diện các bài học chống nổ lỗi DRC, chống cô lập đảo đồng (Zone Choking), so le via vi sai, chống crash Python pcbnew và quy trình 7 bước xuất xưởng DFM.
 parameters:
   type: object
@@ -39,7 +39,7 @@ parameters:
     - action
 ---
 
-# `design_and_route_kicad_pcb` Master Skill
+# `pcb-design-and-audit` Master Skill
 
 > **Đúc kết từ chu trình thực chiến:** Tối ưu bo mạch từ 215 lỗi DRC về chuẩn tuyệt đối **0 DRC Violations - 0 Unconnected Items - 0 Footprint Errors** theo chuẩn IPC-2221 Class 2 trên KiCad 10.
 

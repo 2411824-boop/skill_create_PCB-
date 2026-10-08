@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "run-fixer",
+      "runtimeExecutable": "E:\\KidCad\\bin\\python.exe",
+      "runtimeArgs": ["A:\\DEVICE\\runner.py"],
+      "port": 8095
+    }
+  ]
+}
